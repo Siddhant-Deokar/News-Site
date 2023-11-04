@@ -9,6 +9,8 @@ Steps to run :
 
 3 : Opend another terminal in 'client' folder and run 'npm start'
 
+4 : Start Mongodb Compass Server
+
 Overview :
 
 This is a News Website made using MERN stack.
