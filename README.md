@@ -2,6 +2,7 @@
 This is created by Siddhant Deokar and Rudra Naik
 
 Steps to run :
+
 1 : Run 'npm install' command in the terminals of each folder i.e Client and Server
 
 2 : Open terminal 'server' folder and run 'node index.js' command
