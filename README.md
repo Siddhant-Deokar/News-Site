@@ -7,7 +7,7 @@ Steps to run :
 
 2 : Open terminal 'server' folder and run 'node index.js' command
 
-3 : Opend another terminal in 'client' folder and run 'npm start'
+3 : Open another terminal in 'client' folder and run 'npm start'
 
 4 : Start Mongodb Compass Server
 
